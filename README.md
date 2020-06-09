@@ -1,2 +1,2 @@
 # Guess-my-magic-number
-Gueeses your number in mind
+Code gusses a number from 0 to 50. You can change range as per your use
